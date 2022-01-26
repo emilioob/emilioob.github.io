@@ -5,4 +5,4 @@ https://terrytao.wordpress.com/2008/08/07/on-time-management/
 - Flexibility often plays into efficiency [^1]
 
 
-[^1] test
+[^1]: test
